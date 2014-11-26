@@ -1,0 +1,5 @@
+super + s 
+    urxvt
+
+super + d
+    dmenu_run
