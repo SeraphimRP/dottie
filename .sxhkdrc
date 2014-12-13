@@ -1,5 +1,52 @@
-super + s 
-    urxvt
+super + q
+	killw $(pfw)
+
+super + s
+	urxvt
 
 super + d
-    dmenu_run
+	dmenu_run
+
+super + h
+    mapw -u $(pfw)
+
+super + Down
+	wmv 0 40 $(pfw)
+super + Up
+	wmv 0 -40 $(pfw)
+super + Right
+	wmv 40 0 $(pfw)
+super + Left
+	wmv -40 0 $(pfw)
+
+super + ctrl + Down
+    wmv 0 1 $(pfw)
+super + ctrl + Up
+    wmv 0 -1 $(pfw)
+super + ctrl + Right
+    wmv 1 0 $(pfw)
+super + ctrl + Left
+    wmv -1 0 $(pfw)
+
+super + shift + Right 
+	wrs 40 0 $(pfw)
+super + shift + Left
+	wrs -40 0 $(pfw)
+super + shift + Up
+	wrs 0 -40 $(pfw)
+super + shift + Down
+	wrs 0 40 $(pfw)
+
+super + shift + ctrl + Right
+    wrs 1 0 $(pfw)
+super + shift + ctrl + Left
+    wrs -1 0 $(pfw)
+super + shift + ctrl + Up
+    wrs 0 -1 $(pfw)
+super + shift + ctrl + Down
+    wrs 0 1 $(pfw)
+
+super + u
+    xbacklight -inc 10
+super + j
+    xbacklight -dec 10
