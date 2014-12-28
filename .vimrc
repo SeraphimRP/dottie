@@ -1,10 +1,1 @@
-set number
-set nobackup
-set expandtab
-set tabstop=4
-set shiftwidth=4
-syntax on
-set autoindent
-set smarttab
-colorscheme monokai-soda
-set mouse=a
+/home/vypr/.vimrc

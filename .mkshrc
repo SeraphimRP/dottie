@@ -1,8 +1,1 @@
-export PATH=$HOME/.go/bin:$HOME/bin:$PATH
-export GOPATH=$HOME/.go
-export PS1="─── "
-export EDITOR="vim"
-alias ls="ls -G"
-alias tty-clock="tty-clock -scurDC 7"
-alias screenfetch="screenfetch -c 6,15"
-alias sprunge="curl -F 'sprunge=<-' http://sprunge.us"
+/home/vypr/.mkshrc
