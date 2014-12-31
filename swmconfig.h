@@ -10,7 +10,4 @@
 #define UNFOCUSCOL	0x3dafdc
 #define OUTERCOL	0x5c5c5c
 
-/* resize and move by mouse? */
-#define ENABLE_MOUSE 0
-/* and double borders? */
 #define DOUBLE_BORDER 1
