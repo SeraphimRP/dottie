@@ -26,10 +26,10 @@
 *color11: #d0ea8e
 
 ! blue
-*color4: #0000e9
+*color4: #3dafdc
 
 ! bright_blue
-*color12: #a88eea
+*color12: #8ed0ea
 
 ! magenta
 *color5: #dc3daf
@@ -51,5 +51,6 @@
 
 
 URxvt.scrollBar: false
+URxvt.perl-ext-common: default,clipboard
 URxvt.font: -*-neep-medium-*-semicondensed-*-11-*-*-*-*-*-*-*
 URxvt.boldFont: -*-neep-medium-*-semicondensed-*-11-*-*-*-*-*-*-*

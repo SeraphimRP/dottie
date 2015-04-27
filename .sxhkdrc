@@ -1,16 +1,16 @@
-super + q
+mod4 + q
 	killw $(pfw)
 
-super + s
+mod4 + s
 	urxvt
 
-super + d
+mod4 + d
 	dmenu_run
 
-super + h
+mod4 + h
     mapw -u $(pfw)
 
-super + Down
+mod4 + Down
 	wmv 0 40 $(pfw)
 super + Up
 	wmv 0 -40 $(pfw)
@@ -50,3 +50,9 @@ super + u
     xbacklight -inc 10
 super + j
     xbacklight -dec 10
+
+ctrl + m
+    dmenu_run
+
+super + f
+    sh ~/code/wmutils/contrib/fullscreen.sh

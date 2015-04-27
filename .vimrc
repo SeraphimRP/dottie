@@ -6,8 +6,9 @@ set tabstop=4
 set shiftwidth=4
 set autoindent
 set smarttab
-color flattr
+color term
 
+set backspace=2
 set wildmenu
 set cmdheight=1
 set laststatus=2

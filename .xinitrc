@@ -1,16 +1,16 @@
 #!/bin/sh
 
 sh ~/.fehbg &
-#xsetroot -solid "#376f4a"
+#hsetroot -tile $HOME/img/wp/wp_pattern117.gif -tint "#313131"
 xsetroot -cursor_name left_ptr
+
+xset -b
 xset +fp $HOME/.local/share/fonts
 
-[ ! -s ~/.config/mpd/pid ] && mpd
-mpdscribble
-compton -bc
+offlineimap &
+
 xrdb -load ~/.Xresources
 sxhkd -c $HOME/.sxhkdrc &
 swm &
 
 exec urxvt
-xscreensaver -no-splash &
