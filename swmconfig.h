@@ -10,6 +10,4 @@
 #define UNFOCUSCOL	0x3dafdc
 #define OUTERCOL	0x3dafdc
 
-#define ENABLE_MOUSE
 #define ENABLE_SLOPPY
-#define DOUBLE_BORDER 0
