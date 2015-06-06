@@ -1,29 +1,14 @@
-# Bins on bins on bins on bins.
 export PATH=$HOME/.go/bin:$HOME/bin:$PATH
 
-<<<<<<< HEAD
 export GOPATH=$HOME/.go
 export GOBIN=$GOPATH/bin
 
 export PS1="─── "
-=======
-# Golang Stuff
-export GOPATH=$HOME/.go
-export GOBIN=$GOPATH/bin
-
-# Preferences
-export PS1="─── "
-export CC=gcc
->>>>>>> 67a80a095d32cd41f01448d90a7e360152f9e4ca
 export EDITOR="vim"
 export VISUAL="vim"
 export MAIL=$HOME/mail/inbox
 
-<<<<<<< HEAD
 alias ls="ls --color=auto"
 alias git="hub"
-=======
-# Laziness
->>>>>>> 67a80a095d32cd41f01448d90a7e360152f9e4ca
 alias ncmpc="ncmpc -c"
 alias sprunge="curl -F 'sprunge=<-' http://sprunge.us"
