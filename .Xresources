@@ -1,56 +1,62 @@
-*background: #313131
-*foreground: #d9e6f2
+! --- special colors ---
+
+*background: #272727
+*foreground: #d8d8d8
+
+! --- standard colors ---
 
 ! black
-*color0: #313131
+*color0: #393939
 
 ! bright_black
-*color8: #5c5c5c
+*color8: #5b5b5b
 
 ! red
-*color1: #dc6a3d
+*color1: #f42d6c
 
 ! bright_red
-*color9: #eaa88e
+*color9: #fa9fbb
 
 ! green
-*color2: #3ddc6a
+*color2: #6cf42d
 
 ! bright_green
-*color10: #8eeaa8
+*color10: #bbfa9f
 
 ! yellow
-*color3: #afdc3d
+*color3: #f4b52d
 
 ! bright_yellow
-*color11: #d0ea8e
+*color11: #fadd9f
 
 ! blue
-*color4: #3dafdc
+*color4: #2d8af4
 
 ! bright_blue
-*color12: #8ed0ea
+*color12: #9ec9fa
 
 ! magenta
-*color5: #dc3daf
+*color5: #b52df4
 
 ! bright_magenta
-*color13: #ea8ed0
+*color13: #dd9ffa
 
 ! cyan
-*color6: #3dafdc
+*color6: #2df4b5
 
 ! bright_cyan
-*color14: #8ed0ea
+*color14: #9ffadd
 
 ! white
-*color7: #d6d6d6
+*color7: #d8d8d8
 
 ! bright_white
 *color15: #ffffff
 
-
 URxvt.scrollBar: false
-URxvt.perl-ext-common: default,clipboard
-URxvt.font: -*-neep-medium-*-semicondensed-*-11-*-*-*-*-*-*-*
-URxvt.boldFont: -*-neep-medium-*-semicondensed-*-11-*-*-*-*-*-*-*
+URxvt.perl-lib: ~/.urxvt/perls
+URxvt.perl-ext-common: default,clipboard,url-select
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.font: -jmk-dweep-medium-r-semicondensed--11-100-75-75-c-50-iso8859-1
+URxvt.boldFont: -jmk-dweep-medium-r-semicondensed--11-100-75-75-c-50-iso8859-1
+#URxvt.letterSpace: -1

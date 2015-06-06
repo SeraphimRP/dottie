@@ -6,10 +6,8 @@
 #define OUTER		0		/*  outer border width */
 
 /* default colours, don't worry, you can set these with swc later */
-#define FOCUSCOL	0x3dafdc
-#define UNFOCUSCOL	0x3dafdc
-#define OUTERCOL	0x3dafdc
+#define FOCUSCOL	0x2d8af4
+#define UNFOCUSCOL	0x2df4b5
+#define OUTERCOL	0xd1d1d1
 
-#define ENABLE_MOUSE
 #define ENABLE_SLOPPY
-#define DOUBLE_BORDER 0

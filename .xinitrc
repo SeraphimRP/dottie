@@ -6,11 +6,13 @@ xsetroot -cursor_name left_ptr
 
 xset -b
 xset +fp $HOME/.local/share/fonts
-
-offlineimap &
+xset fp rehash
 
 xrdb -load ~/.Xresources
 sxhkd -c $HOME/.sxhkdrc &
 swm &
+
+compton -f --config $HOME/.compton.conf &
+conky -d
 
 exec urxvt

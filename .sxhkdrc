@@ -1,16 +1,11 @@
-mod4 + q
+super + q
 	killw $(pfw)
-
-mod4 + s
+super + s
 	urxvt
-
-mod4 + d
+super + d
 	dmenu_run
 
-mod4 + h
-    mapw -u $(pfw)
-
-mod4 + Down
+super + Down
 	wmv 0 40 $(pfw)
 super + Up
 	wmv 0 -40 $(pfw)
@@ -46,13 +41,29 @@ super + shift + ctrl + Up
 super + shift + ctrl + Down
     wrs 0 1 $(pfw)
 
-super + u
-    xbacklight -inc 10
-super + j
-    xbacklight -dec 10
+ctrl + Up
+	changeworkspace 1
+ctrl + Down
+	changeworkspace 2
+ctrl + Left
+	changeworkspace 3
+ctrl + Right
+	changeworkspace 4
 
-ctrl + m
-    dmenu_run
+ctrl + shift + Up
+	groaw -a 1
+ctrl + shift + Down
+	groaw -a 2
+ctrl + shift + Left
+	groaw -a 3
+ctrl + shift + Right
+	groaw -a 4
 
-super + f
-    sh ~/code/wmutils/contrib/fullscreen.sh
+ctrl + tab + Up
+	groaw -d 1
+ctrl + tab + Down
+	groaw -d 2
+ctrl + tab + Left
+	groaw -d 3
+ctrl + tab + Right
+	groaw -d 4
