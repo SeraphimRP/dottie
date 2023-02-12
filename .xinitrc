@@ -1,18 +1,8 @@
-#!/bin/sh
+#!/usr/local/bin/bash
+export LC_ALL=en_US.UTF-8
 
-sh ~/.fehbg &
-#hsetroot -tile $HOME/img/wp/wp_pattern117.gif -tint "#313131"
-xsetroot -cursor_name left_ptr
-
-xset -b
 xset +fp $HOME/.local/share/fonts
-xset fp rehash
 
-xrdb -load ~/.Xresources
-sxhkd -c $HOME/.sxhkdrc &
-swm &
+dsbmc-cli -a &
 
-compton -f --config $HOME/.compton.conf &
-conky -d
-
-exec urxvt
+exec i3 --shmlog-size=26214400
