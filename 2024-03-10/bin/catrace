@@ -1,0 +1,22 @@
+#!/bin/bash
+type oneko >/dev/null 2>&1 || { echo >&2 "I require oneko but it's not installed.  Aborting."; exit 1; }
+
+array[0]="sakura"
+array[1]="tomoyo"
+array[2]="neko"
+array[3]="dog"
+array[4]="tora"
+
+allcolorsS=$(awk -F ' ' '{print $4}' /etc/X11/rgb.txt | tr "\n" " ");
+allcolors=($allcolorsS);
+colorsize=${#allcolors[@]};
+size=${#array[@]}
+for i in {1..100};
+do
+index=$(($RANDOM % $size));
+speed=$(($RANDOM % 60 + 16));
+backcolor=$(($RANDOM % $colorsize));
+forecolor=$(($RANDOM % $colorsize));
+oneko -${array[$index]} -speed $speed -fg ${allcolors[$forecolor]} -bg ${allcolors[$backcolor]}  2>>/dev/null &
+done;
+

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/wallhaven-39gxj9.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1711",
+        "foreground": "#ffbfc0",
+        "cursor": "#ffbfc0"
+    },
+    "colors": {
+        "color0": "#1f1711",
+        "color1": "#AC2E30",
+        "color2": "#035766",
+        "color3": "#223943",
+        "color4": "#006070",
+        "color5": "#953031",
+        "color6": "#124751",
+        "color7": "#df9091",
+        "color8": "#3f2e22",
+        "color9": "#ed2d30",
+        "color10": "#017387",
+        "color11": "#254c5d",
+        "color12": "#017c90",
+        "color13": "#ce3133",
+        "color14": "#10606f",
+        "color15": "#ffbfc0"
+    }
+}

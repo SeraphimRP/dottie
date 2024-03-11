@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/jonas-roscinas-up2982nvv667.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0512",
+        "foreground": "#ccd0e0",
+        "cursor": "#ccd0e0"
+    },
+    "colors": {
+        "color0": "#0a0512",
+        "color1": "#24378A",
+        "color2": "#304DA0",
+        "color3": "#555EA5",
+        "color4": "#4D5DBC",
+        "color5": "#B03CB4",
+        "color6": "#569ADA",
+        "color7": "#ccd0e0",
+        "color8": "#8e919c",
+        "color9": "#24378A",
+        "color10": "#304DA0",
+        "color11": "#555EA5",
+        "color12": "#4D5DBC",
+        "color13": "#B03CB4",
+        "color14": "#569ADA",
+        "color15": "#ccd0e0"
+    }
+}

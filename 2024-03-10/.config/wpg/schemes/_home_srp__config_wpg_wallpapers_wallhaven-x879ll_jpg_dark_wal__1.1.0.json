@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/wallhaven-x879ll.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090a12",
+        "foreground": "#c1ffff",
+        "cursor": "#c1ffff"
+    },
+    "colors": {
+        "color0": "#090a12",
+        "color1": "#ED526B",
+        "color2": "#535C91",
+        "color3": "#A04069",
+        "color4": "#22669A",
+        "color5": "#D86492",
+        "color6": "#24A4D4",
+        "color7": "#93d0e4",
+        "color8": "#191b34",
+        "color9": "#ff557d",
+        "color10": "#5d6dcb",
+        "color11": "#de4486",
+        "color12": "#1f86d4",
+        "color13": "#ff6db9",
+        "color14": "#1edcff",
+        "color15": "#c1ffff"
+    }
+}

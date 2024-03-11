@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/boyar-wedding-feast_konstantin-makovsky.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0705",
+        "foreground": "#cebea9",
+        "cursor": "#cebea9"
+    },
+    "colors": {
+        "color0": "#0e0705",
+        "color1": "#704F2D",
+        "color2": "#6E604C",
+        "color3": "#954023",
+        "color4": "#8F5E2E",
+        "color5": "#947050",
+        "color6": "#7B8173",
+        "color7": "#cebea9",
+        "color8": "#908576",
+        "color9": "#704F2D",
+        "color10": "#6E604C",
+        "color11": "#954023",
+        "color12": "#8F5E2E",
+        "color13": "#947050",
+        "color14": "#7B8173",
+        "color15": "#cebea9"
+    }
+}

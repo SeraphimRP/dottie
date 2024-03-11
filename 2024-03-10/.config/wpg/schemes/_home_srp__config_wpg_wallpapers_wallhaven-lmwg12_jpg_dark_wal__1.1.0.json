@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/wallhaven-lmwg12.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#011e2d",
+        "foreground": "#b9b9b9",
+        "cursor": "#b9b9b9"
+    },
+    "colors": {
+        "color0": "#011e2d",
+        "color1": "#9d2d82",
+        "color2": "#255884",
+        "color3": "#349665",
+        "color4": "#a94a8e",
+        "color5": "#802870",
+        "color6": "#87436e",
+        "color7": "#a2a2a2",
+        "color8": "#096f99",
+        "color9": "#da2ab2",
+        "color10": "#2676ba",
+        "color11": "#33ce83",
+        "color12": "#e34fc2",
+        "color13": "#b52a9a",
+        "color14": "#bb4699",
+        "color15": "#b9b9b9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/wallhaven-dpdz2l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0d0c",
+        "foreground": "#c2c8c7",
+        "cursor": "#c2c8c7"
+    },
+    "colors": {
+        "color0": "#0c0d0c",
+        "color1": "#3C4643",
+        "color2": "#4B534C",
+        "color3": "#59665F",
+        "color4": "#69746E",
+        "color5": "#737F7F",
+        "color6": "#76898B",
+        "color7": "#c2c8c7",
+        "color8": "#878c8b",
+        "color9": "#3C4643",
+        "color10": "#4B534C",
+        "color11": "#59665F",
+        "color12": "#69746E",
+        "color13": "#737F7F",
+        "color14": "#76898B",
+        "color15": "#c2c8c7"
+    }
+}

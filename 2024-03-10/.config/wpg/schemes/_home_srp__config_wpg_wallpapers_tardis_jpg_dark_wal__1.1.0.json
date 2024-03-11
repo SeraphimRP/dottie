@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/tardis.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100f1f",
+        "foreground": "#c5c7c3",
+        "cursor": "#c5c7c3"
+    },
+    "colors": {
+        "color0": "#100f1f",
+        "color1": "#1E6990",
+        "color2": "#2D708E",
+        "color3": "#53748C",
+        "color4": "#2994A7",
+        "color5": "#5C9698",
+        "color6": "#35B7CC",
+        "color7": "#c5c7c3",
+        "color8": "#898b88",
+        "color9": "#1E6990",
+        "color10": "#2D708E",
+        "color11": "#53748C",
+        "color12": "#2994A7",
+        "color13": "#5C9698",
+        "color14": "#35B7CC",
+        "color15": "#c5c7c3"
+    }
+}

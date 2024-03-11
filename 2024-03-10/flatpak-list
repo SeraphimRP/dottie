@@ -1,0 +1,7 @@
+Bitwarden	com.bitwarden.desktop	2023.12.1	stable	system
+Discord	com.discordapp.Discord	0.0.39	stable	system
+Freedesktop Platform	org.freedesktop.Platform	23.08.9	23.08	system
+Mesa	org.freedesktop.Platform.GL.default	23.3.1	23.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	23.3.1	23.08-extra	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		23.08	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	system

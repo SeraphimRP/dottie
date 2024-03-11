@@ -1,0 +1,6 @@
+#!/bin/bash
+parts=($1)
+
+killall -q ${parts[0]}
+while pgrep -x ${parts[0]} >/dev/null; do sleep 1; done
+$1 &

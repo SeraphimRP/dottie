@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/dalekprocrastinate.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#00153D",
+        "foreground": "#7bd4e9",
+        "cursor": "#7bd4e9"
+    },
+    "colors": {
+        "color0": "#00153D",
+        "color1": "#136190",
+        "color2": "#106894",
+        "color3": "#0F79A5",
+        "color4": "#0E8AB4",
+        "color5": "#0E9BC4",
+        "color6": "#0BACD5",
+        "color7": "#7bd4e9",
+        "color8": "#5694a3",
+        "color9": "#136190",
+        "color10": "#106894",
+        "color11": "#0F79A5",
+        "color12": "#0E8AB4",
+        "color13": "#0E9BC4",
+        "color14": "#0BACD5",
+        "color15": "#7bd4e9"
+    }
+}

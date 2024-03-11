@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/spaceindaleks.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010101",
+        "foreground": "#82bad2",
+        "cursor": "#82bad2"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#738F2D",
+        "color2": "#778E42",
+        "color3": "#8DAD34",
+        "color4": "#ABD234",
+        "color5": "#196D99",
+        "color6": "#1878C0",
+        "color7": "#82bad2",
+        "color8": "#5b8293",
+        "color9": "#738F2D",
+        "color10": "#778E42",
+        "color11": "#8DAD34",
+        "color12": "#ABD234",
+        "color13": "#196D99",
+        "color14": "#1878C0",
+        "color15": "#82bad2"
+    }
+}

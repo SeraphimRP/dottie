@@ -1,0 +1,2 @@
+#!/bin/sh
+scrot -F - | xclip -selection clipboard -target image/png

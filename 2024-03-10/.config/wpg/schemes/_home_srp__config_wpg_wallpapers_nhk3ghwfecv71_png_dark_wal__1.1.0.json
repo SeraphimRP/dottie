@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/nhk3ghwfecv71.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0b0a",
+        "foreground": "#eac5dd",
+        "cursor": "#eac5dd"
+    },
+    "colors": {
+        "color0": "#0d0b0a",
+        "color1": "#BE2D78",
+        "color2": "#703B8C",
+        "color3": "#B3178A",
+        "color4": "#C82C95",
+        "color5": "#BB64B2",
+        "color6": "#D55BAB",
+        "color7": "#eac5dd",
+        "color8": "#a3899a",
+        "color9": "#BE2D78",
+        "color10": "#703B8C",
+        "color11": "#B3178A",
+        "color12": "#C82C95",
+        "color13": "#BB64B2",
+        "color14": "#D55BAB",
+        "color15": "#eac5dd"
+    }
+}

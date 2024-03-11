@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/macOS_Snow_Leopard.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#d6bcd7",
+        "foreground": "#010101",
+        "cursor": "#010101"
+    },
+    "colors": {
+        "color0": "#d6bcd7",
+        "color1": "#9C3892",
+        "color2": "#9F59A8",
+        "color3": "#D059AD",
+        "color4": "#734A93",
+        "color5": "#CD63C8",
+        "color6": "#7E808B",
+        "color7": "#070312",
+        "color8": "#bba4bc",
+        "color9": "#7f1574",
+        "color10": "#80288b",
+        "color11": "#ab2483",
+        "color12": "#522079",
+        "color13": "#a92ba3",
+        "color14": "#414978",
+        "color15": "#010101"
+    }
+}

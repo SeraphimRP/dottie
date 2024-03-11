@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/pixelart_waterfall.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#cccbbb",
+        "cursor": "#cccbbb"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#466953",
+        "color2": "#586B65",
+        "color3": "#986026",
+        "color4": "#BC6534",
+        "color5": "#68857F",
+        "color6": "#DBA135",
+        "color7": "#cccbbb",
+        "color8": "#8e8e82",
+        "color9": "#466953",
+        "color10": "#586B65",
+        "color11": "#986026",
+        "color12": "#BC6534",
+        "color13": "#68857F",
+        "color14": "#DBA135",
+        "color15": "#cccbbb"
+    }
+}

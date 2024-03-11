@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/tumblr_olbj5vsBrA1sl93iho1_1280.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0A14",
+        "foreground": "#f0d6ff",
+        "cursor": "#f0d6ff"
+    },
+    "colors": {
+        "color0": "#0D0A14",
+        "color1": "#AA51A7",
+        "color2": "#5B4EA2",
+        "color3": "#B550B8",
+        "color4": "#4D389E",
+        "color5": "#C653B2",
+        "color6": "#6959DC",
+        "color7": "#c2adef",
+        "color8": "#6e59a0",
+        "color9": "#ed58e8",
+        "color10": "#6b55e2",
+        "color11": "#fb56ff",
+        "color12": "#5b3adb",
+        "color13": "#ff59f3",
+        "color14": "#795fff",
+        "color15": "#f0d6ff"
+    }
+}

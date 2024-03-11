@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/srp/.config/wpg/wallpapers/rutger-van-de-steeg-i-like-the-new-era-2-0.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081518",
+        "foreground": "#97c9c6",
+        "cursor": "#97c9c6"
+    },
+    "colors": {
+        "color0": "#081518",
+        "color1": "#1F5C61",
+        "color2": "#506E73",
+        "color3": "#1F8E71",
+        "color4": "#A4C75B",
+        "color5": "#1E6D8C",
+        "color6": "#677C84",
+        "color7": "#97c9c6",
+        "color8": "#698c8a",
+        "color9": "#1F5C61",
+        "color10": "#506E73",
+        "color11": "#1F8E71",
+        "color12": "#A4C75B",
+        "color13": "#1E6D8C",
+        "color14": "#677C84",
+        "color15": "#97c9c6"
+    }
+}

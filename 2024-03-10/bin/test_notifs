@@ -1,0 +1,7 @@
+#!/bin/sh
+
+notify-send -i alert -a "echo meow" Test test -u critical &
+sleep 1
+notify-send -i alert -a "echo meow" Test test -u normal &
+sleep 1
+notify-send -i alert -a "echo meow" Test test -u low &
